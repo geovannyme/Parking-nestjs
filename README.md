@@ -18,7 +18,8 @@ Cristian Carrillo
 
   ```bash
     Este proyecto sera un parqueadero   en el cual se pondra en pratica lo ultimo  
-    en cuanto a buenas  practicas  y arquitectura de desarrollo, ser usara arquitectura hexagonal (puertos y adaptadores) tambien se manearan los patrones de diseño data 
+    en cuanto a buenas  practicas  y arquitectura de desarrollo, ser usara arquitectura hexagonal (puertos y 
+    adaptadores) tambien se manearan los patrones de diseño data 
     builder y cqrs  para test se manejara AAA 
 
   ```
