@@ -4,40 +4,41 @@
 
 
 
-##Presentado por
-  ``` bash
+## Presentado por
+  ```bash
 Giovanny Jimenez
 
 Cristian Carrillo
 
   ```
   
-  ##Taller
+  ## Taller
 
-  ##Descripcion
+  ## Descripcion
 
-  ``` bash
+  ```bash
     Este proyecto sera un parqueadero   en el cual se pondra en pratica lo ultimo  en cuanto a buenas  practicas  y arquitectura de desarrollo, ser usara arquitectura hexagonal (puertos y adaptadores) tambien se manearan los patrones de diseño data builder y cqrs  para test se manejara AAA 
 
   ```
 
-  ##Metodologia agile
+  ## Metodologia agile
 
-    ``` bash
+    ```bash
    La metodologia que usaremos sera scrumvan  ya que nos permite  tener una mayor visivilidad de los  compromisos
 
   ```
-  ##Tecnologia
+  ## Tecnologia
 
-  ##Etapas 
+  ## Etapas 
 
-    ``` bash
+    ```bash
 
+ test
 
   ```
 
 
-``` bash
+```bash
  las tecnologias  que se  utlizaran seran:
  backend  ->  nestjs que es un framework de nodejs
  frontend ->  reactjs 
