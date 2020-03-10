@@ -30,11 +30,11 @@ Cristian Carrillo
 
   ## Etapas 
 
-    ```bash
+  ```bash
 
  test
 
-  ```
+ ```
   ## Tecnologia
 
 
@@ -43,4 +43,4 @@ Cristian Carrillo
  backend  ->  nestjs que es un framework de nodejs
  frontend ->  reactjs 
 
-  ```
+```
