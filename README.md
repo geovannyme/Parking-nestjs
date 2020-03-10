@@ -23,11 +23,10 @@ Cristian Carrillo
 
   ## Metodologia agile
 
-    ```bash
+   ```bash
    La metodologia que usaremos sera scrumvan  ya que nos permite  tener una mayor visivilidad de los  compromisos
 
   ```
-  ## Tecnologia
 
   ## Etapas 
 
@@ -36,6 +35,7 @@ Cristian Carrillo
  test
 
   ```
+  ## Tecnologia
 
 
 ```bash
