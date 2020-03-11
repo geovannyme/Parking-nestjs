@@ -1,5 +1,7 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest  Logo" /></a>
+  <a href="https://es.reactjs.org" target="blank"><img src="http://javadesde0.com/wp-content/uploads/logo-react.jpg" width="320" alt="React  Logo" /></a>
+  <a href="https://github.com" target="blank"><img src="https://miro.medium.com/max/1125/1*wotzQboYWAfaj-7bvGNIkQ.png" width="320" alt="React  Logo" /></a>
 </p>
 
 
